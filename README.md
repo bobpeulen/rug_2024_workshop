@@ -21,9 +21,9 @@ In this lab, you will:
 
 ## Task 1. Log in Oracle Cloud
 1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
-2. In the Cloud Account Name box, add **"oractdemeabdmanalytics""**. Click on Next
-3. In the next screen, click on the "Sign in with an identity domain" list and select **"OracleIdentitycloudService""**. Click on Next
-4. In the next screen, add the user name and password provided. Click on Next
+2. In the Cloud Account Name box, add **"oractdemeabdmanalytics"**. Click on Next
+3. In the next screen, click on the **"Sign in with an identity domain"** list and select **"OracleIdentitycloudService""**. Click on Next
+4. In the next screen, **add the user name and password provided**. Click on Next
 
   ![xxx](images/1_log_in.jpg)
   ![xxxx](images/2_log_in.jpg)
