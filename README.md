@@ -1,2 +1,7 @@
-# rug_2024_workshop
-Workshop material for University of Groningen - April 26
+# Workshop material for University of Groningen - April 26
+
+
+
+## **Steps to run the Workshop**
+
+
