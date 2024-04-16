@@ -37,8 +37,8 @@ In this lab, you will:
 4. Select **Create Project**. You can name the Project to your own liking
 5. Click on **Create**. This will create a project.
 6. Step inside the project
-  ![lab_2_img_1_data_science](images/lab_2_img_1_data_science.JPG)
-  ![lab_2_img_2_data_science_project](images/lab_2_img_2_data_science_project.JPG)
+  ![lab_2_img_1_data_science](images/lab_2_img_1_data_science.jpg)
+  ![lab_2_img_2_data_science_project](images/lab_2_img_2_data_science_project.jpg)
 
 7.	Click **Create Notebook**
 8.	You can use all default settings, only change the name to **myfirstnotebook**
