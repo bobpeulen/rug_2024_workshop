@@ -22,7 +22,7 @@ In this lab, you will:
 1. Go to [here](https://github.com/bobpeulen/rug_2024_workshop/blob/main/groningen-in-europe-strategy.pdf)
 2. In the top right corner, click on the three dots and click on **Download**
    
-## Task 1. Log in Oracle Cloud
+## Task 2. Log in Oracle Cloud
 1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
 2. In the Cloud Account Name box, add **"oractdemeabdmanalytics"**. Click on Next
 3. In the next screen, click on the **"Sign in with an identity domain"** list and select **"OracleIdentitycloudService""**. Click on Next
@@ -32,7 +32,7 @@ In this lab, you will:
   ![xxxx](images/2_log_in.jpg)
   ![xxxx](images/3_log_in.jpg)
 
-## Task 2: Create a Notebook session
+## Task 3: Create a Notebook session
 
 1. In Oracle Cloud, click on the hamburger menu, and following on Analytics & AI
 2. Click on **Data Science**
@@ -57,7 +57,7 @@ In this lab, you will:
 16.	The page as shown in the screenshot below should appear
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
-## Task 3: Clone Repository and run notebook
+## Task 4: Clone Repository and run notebook
 
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
