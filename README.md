@@ -70,17 +70,15 @@ Second, you will create an API Key. This API Key is needed to authenticate yours
 
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
-3. Add https://github.com/phantompete/Offensive_Behavior_Lab.git
+3. Add https://github.com/bobpeulen/rug_2024_workshop.git
 4. Click **Clone**. A new, Offensive\_Behavior\_Lab repository should appear in the directory on the left
-5. Step inside the **Offensive\_Behavior\_Lab**
-6. Open the first notebook: **1\_prep\_ocw\_v1.ipnyb**
+5. Step inside the **rug\_2024\_workshop** folder
+6. Open the first notebook: **gen\_ai\_langchain\_faiss.ipynb**
 7. When prompted for **Select Kernel**, just click on **Select**
-8. Follow the steps in the notebook closely. These steps are:
-
+8. Follow the steps in the notebook closely.
+   
   ![lab_2_img_5_clone_repository](images/lab_2_img_5_clone_repository.jpg)
   ![lab_2_img_6_notebook_kernel](images/lab_2_img_6_notebook_kernel.jpg)
-
-
 
 ## Acknowledgements
 * [Bob Peulen](https://www.linkedin.com/in/bobpeulen/)
