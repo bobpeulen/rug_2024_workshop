@@ -14,10 +14,9 @@ In this lab, you will:
 
 ### Prerequisites
 
-* A tenancy that is configured to work with the Data Science service, including Jobs. Make sure to have all [policies and dynamic groups](https://docs.oracle.com/en-us/iaas/data-science/using/policies.htm) in place.
+* A tenancy that is configured to work with the Data Science service. Make sure to have all [policies and dynamic groups](https://docs.oracle.com/en-us/iaas/data-science/using/policies.htm) in place.
 * An account that has permission to create a Data Science project.
 * An account that has permission to create a Data Science notebook session.
-
 
 ## Task 1. Log in Oracle Cloud
 1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
