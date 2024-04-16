@@ -47,12 +47,12 @@ In this lab, you will:
 11.	Leave Block storage size empty
 12.	Click on **Create**
 13.	This may take a few minutes, when the notebook is **Active**, click on the name of the notebook to access the main page
-  ![lab_2_img_3_notebook_session](images/lab_2_img_3_notebook_session.JPG)
+  ![lab_2_img_3_notebook_session](images/lab_2_img_3_notebook_session.jpg)
 
 14.	Click on **Open** to open the notebook
 15.	When you are prompted to log in, log in with your Oracle Cloud credentials
 16.	The page as shown in the screenshot below should appear
-  ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.JPG)
+  ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
 ## Task 2: Clone Repository and run notebook
 
@@ -67,12 +67,11 @@ In this lab, you will:
 
 * **Create a custom Conda environment.** In a custom conda environment, we can install any PyPI package we need in order to run the Job. You will install several packages, like DeepFace and PyTube
 * **Publish the custom Conda environment.** In order to use the custom Conda, you will publish it to Object Storage. That way, when triggering the Job, the Job can 'pull' the custom Conda environment from Object Storage
-  ![lab_2_img_5_clone_repository](images/lab_2_img_5_clone_repository.JPG)
-  ![lab_2_img_6_notebook_kernel](images/lab_2_img_6_notebook_kernel.JPG)
+  ![lab_2_img_5_clone_repository](images/lab_2_img_5_clone_repository.jpg)
+  ![lab_2_img_6_notebook_kernel](images/lab_2_img_6_notebook_kernel.jpg)
 
-You may now **proceed to the next lab.**
+
 
 ## Acknowledgements
-* [Bob Peulen](https://www.linkedin.com/in/bobpeulen/), Data Science and ML Specialist
-* [Piotr Kurzynoga](https://www.linkedin.com/in/piotr-kurzynoga/), Data Development Specialist
-* **Last Updated By/Date** - Bob Peulen, November 2023
+* [Bob Peulen](https://www.linkedin.com/in/bobpeulen/)
+* **Last Updated By/Date** - Bob Peulen, April 2024
