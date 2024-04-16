@@ -18,6 +18,10 @@ In this lab, you will:
 * An account that has permission to create a Data Science project.
 * An account that has permission to create a Data Science notebook session.
 
+## Task 1. Download the Groningen in Europe Strategy PDF file
+1. Go to [here](https://github.com/bobpeulen/rug_2024_workshop/blob/main/groningen-in-europe-strategy.pdf)
+2. In the top right corner, click on the three dots and click on **Download**
+   
 ## Task 1. Log in Oracle Cloud
 1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
 2. In the Cloud Account Name box, add **"oractdemeabdmanalytics"**. Click on Next
