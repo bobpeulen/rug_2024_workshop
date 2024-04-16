@@ -1,4 +1,4 @@
-![image](https://github.com/bobpeulen/rug_2024_workshop/assets/75362416/44f21d63-f77a-4ec8-84dd-c225d728066e)# Workshop material for University of Groningen - April 26
+# Workshop material for University of Groningen - April 26
 
 ## **Steps to run the Workshop**
 
@@ -23,8 +23,12 @@ In this lab, you will:
 ## Task 1. Log in Oracle Cloud
 1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
 2. In the Cloud Account Name box, add **"oractdemeabdmanalytics""**. Click on Next
-3. In the next screen, click on the "Sign in with an identity domain" list and select **"OracleIdentitycloudService""**
-4. 
+3. In the next screen, click on the "Sign in with an identity domain" list and select **"OracleIdentitycloudService""**. Click on Next
+4. In the next screen, add the user name and password provided. Click on Next
+
+  ![xxx](images/1_log_in.jpg)
+  ![xxxx](images/2_log_in.jpg)
+  ![xxxx](images/3_log_in.jpg)
 
 ## Task 2: Create a Notebook session
 
