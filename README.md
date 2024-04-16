@@ -8,7 +8,6 @@
 
 In this lab, you will:
 * Log in Oracle Cloud
-* Create a personal API Key
 * Provision an OCI Data Science notebook
 * Clone a respository from Github
 * Run a Jupyter Notebook - Building a small Retrieval Augmented Generation application
