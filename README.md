@@ -1,4 +1,4 @@
-# Workshop material for University of Groningen - April 26
+![image](https://github.com/bobpeulen/rug_2024_workshop/assets/75362416/44f21d63-f77a-4ec8-84dd-c225d728066e)# Workshop material for University of Groningen - April 26
 
 ## **Steps to run the Workshop**
 
@@ -21,27 +21,12 @@ In this lab, you will:
 
 
 ## Task 1. Log in Oracle Cloud
-1. xxxxxxxxxxxx
-2. xxxx
+1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
+2. In the Cloud Account Name box, add **"oractdemeabdmanalytics""**. Click on Next
+3. In the next screen, click on the "Sign in with an identity domain" list and select **"OracleIdentitycloudService""**
+4. 
 
-
-## Task 2: Generate an API Key
-
-Second, you will create an API Key. This API Key is needed to authenticate yourselves to invoke or use other services. Both APEX and OCI Data Science will need your API Key.
-
-1. In the top-right corner, click the person Icon.
-2. Click on **User Settings**
-3. In the left, click on **API Keys** and following on **Add API Key**
-4. First, click on **Download Private Key**. This will download the private key
-5. Click on **Add**
-6. Copy the **Configuration File Preview** starting with [DEFAULT] into a empty .txt file. Save the file as [**config**](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdkconfig.htm) , without .txt as extension.
-7. Important. Change the last line to key _ file = ./private _ key.pem. See an example config file with the made changes below
-8. Important. In OCI Data Science, you have to rename the private key file to **private_key.pem**
-9. Click on **Close** to close the window. You can review the API Key by click on the three dots on the right of it and select **View Configuration File**
-    ![lab_1_img_6_api_key](images/lab_1_img_6_api_key.jpg)
-    ![lab_1_img_7_api_key_config](images/lab_1_img_7_api_key_config.jpg)
-
-## Task 3: Create a Notebook session
+## Task 2: Create a Notebook session
 
 1. In Oracle Cloud, click on the hamburger menu, and following on Analytics & AI
 2. Click on **Data Science**
@@ -66,7 +51,7 @@ Second, you will create an API Key. This API Key is needed to authenticate yours
 16.	The page as shown in the screenshot below should appear
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
-## Task 4: Clone Repository and run notebook
+## Task 3: Clone Repository and run notebook
 
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
