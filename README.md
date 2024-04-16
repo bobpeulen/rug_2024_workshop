@@ -1,26 +1,17 @@
 # Workshop material for University of Groningen - April 26
 
-
-
 ## **Steps to run the Workshop**
 
-
-
-# Create an OCI Data Science Notebook
-
-## Introduction
-
-In this lab, you will first provision an OCI Data Science notebook session. Afterwards, you will clone a repository from Github. This will make sure all the files you  need in the remaining steps are within your reach. The repository consists of multiple files: 3 notebooks and several .py files. After cloning the repository, you are asked to open the first notebook and run the notebook cell by cell carefully. In the notebook, your main task is to create and publish a Conda environment to Object Storage.
-
-*Estimated Time:* 25 minutes
+*Estimated Time:* 40 minutes
 
 ### Objectives
 
 In this lab, you will:
+* Log in Oracle Cloud
+* Create a personal API Key
 * Provision an OCI Data Science notebook
 * Clone a respository from Github
-* Run a Jupyter Notebook
-* Create and publish a Conda environment to Object Storage
+* Run a Jupyter Notebook - Building a small Retrieval Augmented Generation application
 
 ### Prerequisites
 
@@ -29,7 +20,28 @@ In this lab, you will:
 * An account that has permission to create a Data Science notebook session.
 
 
-## Task 1: Create a Notebook session
+## Task 1. Log in Oracle Cloud
+1. xxxxxxxxxxxx
+2. xxxx
+
+
+## Task 2: Generate an API Key
+
+Second, you will create an API Key. This API Key is needed to authenticate yourselves to invoke or use other services. Both APEX and OCI Data Science will need your API Key.
+
+1. In the top-right corner, click the person Icon.
+2. Click on **User Settings**
+3. In the left, click on **API Keys** and following on **Add API Key**
+4. First, click on **Download Private Key**. This will download the private key
+5. Click on **Add**
+6. Copy the **Configuration File Preview** starting with [DEFAULT] into a empty .txt file. Save the file as [**config**](https://docs.oracle.com/en-us/iaas/Content/API/Concepts/sdkconfig.htm) , without .txt as extension.
+7. Important. Change the last line to key _ file = ./private _ key.pem. See an example config file with the made changes below
+8. Important. In OCI Data Science, you have to rename the private key file to **private_key.pem**
+9. Click on **Close** to close the window. You can review the API Key by click on the three dots on the right of it and select **View Configuration File**
+    ![lab_1_img_6_api_key](images/lab_1_img_6_api_key.jpg)
+    ![lab_1_img_7_api_key_config](images/lab_1_img_7_api_key_config.jpg)
+
+## Task 3: Create a Notebook session
 
 1. In Oracle Cloud, click on the hamburger menu, and following on Analytics & AI
 2. Click on **Data Science**
@@ -54,7 +66,7 @@ In this lab, you will:
 16.	The page as shown in the screenshot below should appear
   ![lab_2_img_4_notebook](images/lab_2_img_4_notebook.jpg)
 
-## Task 2: Clone Repository and run notebook
+## Task 4: Clone Repository and run notebook
 
 1. Click on the **Git** tab on the left
 2. Click on **Clone a Repository**
@@ -65,8 +77,6 @@ In this lab, you will:
 7. When prompted for **Select Kernel**, just click on **Select**
 8. Follow the steps in the notebook closely. These steps are:
 
-* **Create a custom Conda environment.** In a custom conda environment, we can install any PyPI package we need in order to run the Job. You will install several packages, like DeepFace and PyTube
-* **Publish the custom Conda environment.** In order to use the custom Conda, you will publish it to Object Storage. That way, when triggering the Job, the Job can 'pull' the custom Conda environment from Object Storage
   ![lab_2_img_5_clone_repository](images/lab_2_img_5_clone_repository.jpg)
   ![lab_2_img_6_notebook_kernel](images/lab_2_img_6_notebook_kernel.jpg)
 
