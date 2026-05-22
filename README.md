@@ -46,7 +46,17 @@ In this lab, you will:
 
 8.	Click **Create Notebook session**
 9.	You can use all default settings, only change the name to **myfirstnotebook**
-10.	Optional: change the shape of the notebook session by clicking on **Change Shape**
+
+10. Change the Shape of the notebook:
+    - Click on **Change shape**
+    - Click on "Virtual Machine" and "AMD"
+    - Click on "VM.Standard.E5.Flex
+    - Set "Number of OCPU" to 4
+    - Click on "Select shape"
+
+
+   <img width="1891" height="804" alt="image" src="https://github.com/user-attachments/assets/abd30c22-89bf-4b4f-bf30-03b9f87ba74d" />
+
 11.	Use **Default Networking**
 12.	Leave Block storage size empty
 13.	Click on **Create**
