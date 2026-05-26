@@ -24,19 +24,20 @@ In this lab, you will:
    
 ## Task 2. Log in Oracle Cloud
 1. To log in Oracle Cloud, go to [cloud.oracle.com](https://cloud.oracle.com/)
-2. In the Cloud Account Name box, add **"oractdemeabdmanalytics"**. Click on Next
-3. In the next screen, click on the **"Sign in with an identity domain"** list and select **"OracleIdentitycloudService""**. Click on Next
-4. In the next screen, **add the user name and password provided**. Click on Next
+2. In the Cloud Account Name box, add **"nlacetenant"**. Click on Next
+   <img width="564" height="547" alt="image" src="https://github.com/user-attachments/assets/7bef8a9a-01e3-42a5-93be-e3a681d87689" />
 
-  ![xxx](images/1_log_in.jpg)
-  ![xxxx](images/2_log_in.jpg)
-  ![xxxx](images/3_log_in.jpg)
+3. In the next screen, select **"Default""** from the list. Click on Next
+   <img width="619" height="404" alt="image" src="https://github.com/user-attachments/assets/0c6e1bb0-5fb9-4ef7-a712-0b0172eaa6b8" />
+
+4. In the next screen, **add the user name and password provided**. Click on Next
+   <img width="602" height="623" alt="image" src="https://github.com/user-attachments/assets/c0176f00-3c25-44a8-adc2-a7173dcdfa2b" />
 
 ## Task 3: Create a Notebook session
 
 1. In Oracle Cloud, click on the hamburger menu, and following on Analytics & AI
 2. Click on **Data Science**
-3. Select the correct compartment on the left
+3. Select the correct compartment on the left. Use the **Workshops:RUG** compartment.
 4. Select **Create Project**. You can name the Project to your own liking
 5. Click on **Create**. This will create a project.
 6. Step inside the project
