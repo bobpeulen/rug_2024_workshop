@@ -47,7 +47,7 @@ In this lab, you will:
 
 
 8.	Click **Create Notebook session**
-9.	You can use all default settings, only change the name to **myfirstnotebook**
+9.	You can use default settings for everything but the shape. Change the name to **myfirstnotebook**
 
 10. Change the Shape of the notebook:
     - Click on **Change shape**
