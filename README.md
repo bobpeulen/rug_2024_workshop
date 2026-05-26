@@ -43,7 +43,8 @@ In this lab, you will:
 6. Step inside the project
 7. Click on **Notebook Sessions**
   ![lab_2_img_1_data_science](images/lab_2_img_1_data_science.jpg)
-  ![lab_2_img_2_data_science_project](images/lab_2_img_2_data_science_project.jpg)
+  <img width="1042" height="586" alt="image" src="https://github.com/user-attachments/assets/b3c6a73c-d72c-4162-a702-dbb5a87199da" />
+
 
 8.	Click **Create Notebook session**
 9.	You can use all default settings, only change the name to **myfirstnotebook**
